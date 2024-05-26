@@ -1,9 +1,11 @@
 # FIZZ-BUZZ
 
 **Description**
+
 The FizzBuzz problem is a common programming challenge used in coding interviews to test a candidate's ability to implement conditional logic. The goal is to iterate through a series of integers and print specific outputs based on the divisibility of each integer.
 
 **Requirements**
+
 For each integer in a given series:
 
 1. Print "FIZZ" if the number is a multiple of 3.
